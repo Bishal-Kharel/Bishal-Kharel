@@ -38,7 +38,7 @@
 ### 🔗 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/bishalkharel" target="_blank">
+  <a href="https://www.linkedin.com/in/bishal-kharel-18a2221b5/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
   </a>
   <a href="mailto:bishalkharel9842@gmail.com">
